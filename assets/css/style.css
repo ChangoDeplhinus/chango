@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #373A3C;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    color: #FFFFFF;
+}
+
+.nav-link {
+    color: #FFFFFF;
+}
+
+img {
+    width: 482pt;
+    height: 384pt;
+}
+
+.col-6 {
+    background-color: yellow;
+    padding: 50pt;
+}
